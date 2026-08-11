@@ -11,12 +11,8 @@ main:
   - title: "Research"
     url: /research/
 
-  -  title: "Awards"
+  - title: "Awards"
     url: /awards/
 
   - title: "CV"
     url: /files/Amadu_Jalloh_CV.pdf
-    
-  # - title: "CV"
-  #   url: /cv-json/
-
