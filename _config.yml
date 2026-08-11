@@ -28,19 +28,18 @@ author:
   employer         : "Waseda University"
   email            : "j.amadu1528@gmail.com"
 
-  # Academic websites
-  academia         : # URL
-  arxiv           
-  googlescholar    
-  inspire-hep      : # URL
-  impactstory      : # URL
-  orcid            
-  semantic         : # URL
-  ssrn             : # URL
-  pubmed           
-  researchgate     : # URL
-  scopus           : # URL
-  zotero           : # URL
+academia:
+arxiv:
+googlescholar:
+inspire-hep:
+impactstory:
+orcid:
+semantic:
+ssrn:
+pubmed:
+researchgate:
+scopus:
+zotero:
 
 
   # Repositories and software development
