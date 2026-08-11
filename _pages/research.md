@@ -1,11 +1,9 @@
-
 ---
 layout: archive
 title: "Research"
 permalink: /research/
 author_profile: true
 ---
-
 ## Revise and Resubmit
 
 ### The Impact of Foreign Aid on Infant Mortality in Africa: Does Political Favoritism Matter?
