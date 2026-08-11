@@ -21,15 +21,12 @@ repository               : "Jay95-png/Jay95-png.github.io"
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
-  # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
-  uri              : # URL
-  email            : "none@example.org" 
+  name             : "Amadu Jalloh"
+  bio              : "Ph.D. Candidate in Economics at Waseda University. Research interests: development economics, political economy, foreign aid, and applied microeconomics."
+  location         : "Tokyo, Japan"
+  employer         : "Waseda University"
+  email            : "j.amadu1528@gmail.com"
 
   # Academic websites
   academia         : # URL
