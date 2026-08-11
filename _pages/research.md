@@ -10,7 +10,6 @@ author_profile: true
 
 **Status:** Revise and Resubmit, *Journal of Development Studies*
 
-This paper examines whether the effectiveness of foreign aid depends on political favoritism in recipient countries. Using geocoded aid project data, Demographic and Health Surveys (DHS), and a mother fixed-effects approach across multiple African countries, the study finds that aid projects significantly reduce infant mortality, with stronger effects in politically favored regions.
 
 **Presentation**
 - Centre for the Study of African Economies (CSAE), University of Oxford, 2026
