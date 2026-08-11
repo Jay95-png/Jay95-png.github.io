@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. Candidate in Economics at the Graduate School of Economics, Waseda University. My research interests lie at the intersection of development economics, political economy, foreign aid, and applied microeconomics.
+I am a Ph.D. Candidate in Economics at the Graduate School of Economics, Waseda University. 
 
-My research examines how foreign aid and development interventions affect economic and social outcomes in developing countries, with a particular focus on Africa. I use applied econometric methods, household surveys, geospatial data, and field experiments to study questions related to foreign aid effectiveness, political favoritism, public attitudes toward self-reliance, and international development competition.
+My research interests lie at the intersection of development economics, political economy, and applied microeconomics. I study the effectiveness of foreign aid, public attitudes toward development, and the political economy of aid allocation using household survey data, geospatial methods, causal inference, and field experiments. My current work focuses on health outcomes, aid dependency, international development competition, and experimental evaluations in Sub-Saharan Africa.
 
 I received my M.A. in Economics from Waseda University and my B.Sc. in Economics from Fourah Bay College, University of Sierra Leone.
 
