@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. Candidate in Economics at the Graduate School of Economics, Waseda University. 
+I am a PhD Candidate in Economics at the Graduate School of Economics, Waseda University, Tokyo, Japan.
 
 My research interests lie at the intersection of development economics, political economy, and applied microeconomics. I study the effectiveness of foreign aid, public attitudes toward development, and the political economy of aid allocation using household survey data, geospatial methods, causal inference, and field experiments. My current work focuses on health outcomes, aid dependency, international development competition, and experimental evaluations in Sub-Saharan Africa.
 
